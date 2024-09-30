@@ -12,3 +12,5 @@ adress = input(" Hello Enter your adress: ")
 
 
 print(" Hello " , name ," \nYour adress: ", adress )
+
+print("Animal: Cat")
